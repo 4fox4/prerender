@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "prerender",
+      "script": "index.js",
+      "exec_mode": "fork_mode",
+      "env": {
+        "PORT": 3030
+      }
+    }
+  ]
+}

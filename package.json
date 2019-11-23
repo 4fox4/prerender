@@ -1,0 +1,15 @@
+{
+  "name": "docdoc-prerender",
+  "version": "1.0.0",
+  "description": "AfriDoctor prerendering for SEO",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start pm2.config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "houlekhi",
+  "license": "ISC",
+  "dependencies": {
+    "prerender": "^5.6.0"
+  }
+}
